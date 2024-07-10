@@ -12,15 +12,9 @@ This project uses the [Pokéapi](https://pokeapi.co/) for its backend which prov
 
 ## App Screens
 
-<div style="display: flex; flex-wrap: wrap; gap: 0;">
-  <div style="flex: 1 1 33.33%;"><img src="./docs/screens/1.png" style="width: 33%;"></div>
-  <div style="flex: 1 1 33.33%;"><img src="./docs/screens/2.png" style="width: 33%;"></div>
-  <div style="flex: 1 1 33.33%;"><img src="./docs/screens/3.png" style="width: 33%;"></div>
-  <div style="flex: 1 1 25%;"><img src="./docs/screens/4.png" style="width: 25%;"></div>
-  <div style="flex: 1 1 25%;"><img src="./docs/screens/5.png" style="width: 25%;"></div>
-  <div style="flex: 1 1 25%;"><img src="./docs/screens/6.png" style="width: 25%;"></div>
-  <div style="flex: 1 1 25%;"><img src="./docs/screens/7.png" style="width: 25%;"></div>
-</div>
+<img src="./docs/screens/1.png" width="33%"> <img src="./docs/screens/2.png" width="33%"> <img src="./docs/screens/3.png" width="33%">
+
+<img src="./docs/screens/4.png" width="25%"> <img src="./docs/screens/5.png" width="25%"> <img src="./docs/screens/6.png" width="25%"> <img src="./docs/screens/7.png" width="25%"> 
 
 ## Tech Stack
 
